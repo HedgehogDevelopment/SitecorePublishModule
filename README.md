@@ -1,4 +1,4 @@
-# Sitecore Publish Module
+# Sitecore Publish Status Module
 
 ## Sitecore Publis Status module simplifies version and language tracking 
 
@@ -6,9 +6,13 @@ The module adds panel in the publish tab of the content editor. When you select 
 
 There is 6 different statuses for an item:
 
-1) Latest is published
-2) Not latest revision
-3) Not latest version
-4) Not published for language
-5) Not published to database
-6) No publishing targets
+1) Latest is published <br />
+2) Not latest revision <br />
+3) Not latest version <br />
+4) Not published for language <br />
+5) Not published to database <br />
+6) No publishing targets <br />
+
+You can download the module from sitecore marketplace:
+
+https://marketplace.sitecore.net/Modules/Publish_Status.aspx?sc_lang
