@@ -16,3 +16,6 @@ There is 6 different statuses for an item:
 You can download the module from sitecore marketplace:
 
 https://marketplace.sitecore.net/Modules/Publish_Status.aspx
+
+![Sitecore 7.2](http://marketplace.sitecore.net/services/~/media/Marketplace/Modules/P/Publish_Status/Solutions/Publish_Status_screenshot.ashx?mw=400)
+![Sitecore 8.0](http://marketplace.sitecore.net/services/~/media/Marketplace/Modules/P/Publish_Status/Solutions/PublishStatus80.ashx?mw=400)
