@@ -1,0 +1,8 @@
+C:\HHOG\Publish Module\Sitecore.PublishStatus_2015-02-04 14-54-37Z\Sitecore.PublishStatus\bin\Sitecore.PublishStatus.dll
+C:\HHOG\Publish Module\Sitecore.PublishStatus_2015-02-04 14-54-37Z\Sitecore.PublishStatus\bin\Sitecore.PublishStatus.pdb
+C:\HHOG\Publish Module\Sitecore.PublishStatus_2015-02-04 14-54-37Z\Sitecore.PublishStatus\bin\Sitecore.Client.dll
+C:\HHOG\Publish Module\Sitecore.PublishStatus_2015-02-04 14-54-37Z\Sitecore.PublishStatus\bin\Sitecore.Kernel.dll
+C:\HHOG\Publish Module\Sitecore.PublishStatus_2015-02-04 14-54-37Z\Sitecore.PublishStatus\bin\Sitecore.Kernel.xml
+C:\HHOG\Publish Module\Sitecore.PublishStatus_2015-02-04 14-54-37Z\Sitecore.PublishStatus\obj\Debug\Sitecore.PublishStatus.csprojResolveAssemblyReference.cache
+C:\HHOG\Publish Module\Sitecore.PublishStatus_2015-02-04 14-54-37Z\Sitecore.PublishStatus\obj\Debug\Sitecore.PublishStatus.dll
+C:\HHOG\Publish Module\Sitecore.PublishStatus_2015-02-04 14-54-37Z\Sitecore.PublishStatus\obj\Debug\Sitecore.PublishStatus.pdb

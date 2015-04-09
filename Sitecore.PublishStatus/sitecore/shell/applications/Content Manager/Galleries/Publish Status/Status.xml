@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<control xmlns:def="Definition" xmlns="http://schemas.sitecore.net/Visual-Studio-Intellisense" xmlns:shell="http://www.sitecore.net/shell">
+  <Gallery.PublishStatus>
+    <Gallery>      
+      <CodeBeside Type="Sitecore.PublishStatus.sitecore.shell.applications.Galleries.PublishStatusForm, Sitecore.PublishStatus"/>
+
+      <div ID="Grid" class="scStretch">
+        <Border ID="Result" Class="scGalleryContent13" />
+        <div class="scGalleryBottom13">
+          <GalleryMenuLine />
+          <Gallery.Grip />
+        </div>
+      </div>
+            
+    </Gallery>
+  </Gallery.PublishStatus>
+</control>
