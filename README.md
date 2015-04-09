@@ -15,4 +15,4 @@ There is 6 different statuses for an item:
 
 You can download the module from sitecore marketplace:
 
-https://marketplace.sitecore.net/Modules/Publish_Status.aspx?sc_lang
+https://marketplace.sitecore.net/Modules/Publish_Status.aspx
