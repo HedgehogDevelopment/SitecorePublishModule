@@ -1,4 +1,13 @@
+<img src="https://www.hhog.com/-/media/PublicImages/Hedgehog/Hedgehog-logo-4color-275x46.jpg" alt="Hedgehog Development" border="0"> 
+
+
 # Sitecore Publish Status Module
+
+Blog post about this feature: [http://bilyukov.com/sitecore-publish-status-module/
+](http://bilyukov.com/sitecore-publish-status-module/)
+
+Sitecore Marketplace URL: [https://marketplace.sitecore.net/Modules/Publish_Status.aspx
+](https://marketplace.sitecore.net/Modules/Publish_Status.aspx)
 
 ## Sitecore Publis Status module simplifies version and language tracking 
 
@@ -12,9 +21,7 @@ There are 6 different statuses for an item:<br />
 5) Not published to database <br />
 6) No publishing targets <br />
 
-You can download the module from Sitecore Marketplace:
 
-https://marketplace.sitecore.net/Modules/Publish_Status.aspx
 
 ![Sitecore 7.2](http://marketplace.sitecore.net/services/~/media/Marketplace/Modules/P/Publish_Status/Solutions/Publish_Status_screenshot.ashx?mw=400)
 ![Sitecore 8.0](http://marketplace.sitecore.net/services/~/media/Marketplace/Modules/P/Publish_Status/Solutions/PublishStatus80.ashx?mw=400)
