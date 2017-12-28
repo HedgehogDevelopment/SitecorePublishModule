@@ -9,7 +9,7 @@ Blog post about this feature: [http://bilyukov.com/sitecore-publish-status-modul
 Sitecore Marketplace URL: [https://marketplace.sitecore.net/Modules/Publish_Status.aspx
 ](https://marketplace.sitecore.net/Modules/Publish_Status.aspx)
 
-## Sitecore Publis Status module simplifies version and language tracking 
+## Sitecore Publish Status module simplifies version and language tracking 
 
 The module adds a panel in the Publish ribbon of the Content Editor. When you select an item in the Sitecore content tree you can immediately see the current publish status for the English language and also there is a button to see the publish status for all languages.
 There are 6 different statuses for an item:<br />
@@ -23,5 +23,8 @@ There are 6 different statuses for an item:<br />
 
 
 
-![Sitecore 7.2](http://marketplace.sitecore.net/services/~/media/Marketplace/Modules/P/Publish_Status/Solutions/Publish_Status_screenshot.ashx?mw=400)
-![Sitecore 8.0](http://marketplace.sitecore.net/services/~/media/Marketplace/Modules/P/Publish_Status/Solutions/PublishStatus80.ashx?mw=400)
+### Sitecore 7.2
+<img src ="https://marketplace.sitecore.net/services/~/media/Marketplace/Modules/P/Publish_Status/Solutions/Publish_Status_screenshot.ashx?mw=400"  alt="Publish Status Module in Sitecore 7.2" border="0" />
+
+### Sitecore 8.0
+<img src="https://marketplace.sitecore.net/services/~/media/Marketplace/Modules/P/Publish_Status/Solutions/PublishStatus80.ashx?mw=400" alt="Publish Status Module in Sitecore 8.0" border="0" />
